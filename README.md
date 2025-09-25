@@ -1,4 +1,3 @@
-# AI-ML-Based-Thunderstorm-Prediction-
 # AI-ML-Based Thunderstorm Prediction
 
 An advanced **weather prediction system** designed to enhance aviation safety by delivering **accurate, real-time forecasts of thunderstorms and gale-force winds**. The project combines **machine learning**, **deep neural networks**, and **3D visualization** to provide actionable insights for pilots and aviation personnel.
